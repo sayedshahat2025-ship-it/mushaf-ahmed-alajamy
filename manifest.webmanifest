@@ -1,0 +1,19 @@
+{
+  "name": "المصحف الشريف - الأخضر والذهبي",
+  "short_name": "المصحف",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f2",
+  "theme_color": "#176b45",
+  "icons": [
+    {
+      "src": "./icons/mushaf-new.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
