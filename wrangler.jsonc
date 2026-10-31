@@ -1,7 +1,15 @@
 {
   "name": "mushaf-ahmed-alajamy",
+  "main": "worker.js",
   "compatibility_date": "2026-10-31",
   "assets": {
-    "directory": "."
-  }
+    "directory": ".",
+    "binding": "ASSETS"
+  },
+  "r2_buckets": [
+    {
+      "binding": "MUSHAF_AUDIO",
+      "bucket_name": "mushaf-audio"
+    }
+  ]
 }
