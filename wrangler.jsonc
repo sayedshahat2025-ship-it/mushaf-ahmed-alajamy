@@ -1,0 +1,8 @@
+{
+  "name": "mushaf-ahmed-alajamy",
+  "compatibility_date": "2026-10-31",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  }
+}
